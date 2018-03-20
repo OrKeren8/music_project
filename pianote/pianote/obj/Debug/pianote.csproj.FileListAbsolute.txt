@@ -18,3 +18,13 @@ E:\OrKeren\mihlala\fpga\pianote\pianote\obj\Debug\pianote.csproj.GenerateResourc
 E:\OrKeren\mihlala\fpga\pianote\pianote\obj\Debug\pianote.csproj.CoreCompileInputs.cache
 E:\OrKeren\mihlala\fpga\pianote\pianote\obj\Debug\pianote.exe
 E:\OrKeren\mihlala\fpga\pianote\pianote\obj\Debug\pianote.pdb
+E:\OrKeren\mihlala\פרוייקט סיום\pianote\pianote\bin\Debug\pianote.exe.config
+E:\OrKeren\mihlala\פרוייקט סיום\pianote\pianote\bin\Debug\pianote.exe
+E:\OrKeren\mihlala\פרוייקט סיום\pianote\pianote\bin\Debug\pianote.pdb
+E:\OrKeren\mihlala\פרוייקט סיום\pianote\pianote\obj\Debug\pianote.csprojResolveAssemblyReference.cache
+E:\OrKeren\mihlala\פרוייקט סיום\pianote\pianote\obj\Debug\pianote.Form1.resources
+E:\OrKeren\mihlala\פרוייקט סיום\pianote\pianote\obj\Debug\pianote.Properties.Resources.resources
+E:\OrKeren\mihlala\פרוייקט סיום\pianote\pianote\obj\Debug\pianote.csproj.GenerateResource.Cache
+E:\OrKeren\mihlala\פרוייקט סיום\pianote\pianote\obj\Debug\pianote.csproj.CoreCompileInputs.cache
+E:\OrKeren\mihlala\פרוייקט סיום\pianote\pianote\obj\Debug\pianote.exe
+E:\OrKeren\mihlala\פרוייקט סיום\pianote\pianote\obj\Debug\pianote.pdb

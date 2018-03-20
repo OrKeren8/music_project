@@ -72,7 +72,7 @@ namespace pianote
         }
         private void button12_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < note1.Length; i++)
+            for (int i = 0; i < noteRec.Length; i++)
             {
                 if (noteRec[i] != 0)
                     blink(noteRec[i]);
@@ -266,6 +266,12 @@ namespace pianote
             }
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
         private void LaShClick(object sender, EventArgs e)
         {
             blink(13);
